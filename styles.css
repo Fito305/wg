@@ -20,7 +20,7 @@ h1 {
     font-weight: bold;
     size: 2.5rem;
     line-height: 1.5;
-    color: #001253;
+    color: #132C33;
 }
 
 /* .main-h1 {
@@ -28,7 +28,7 @@ h1 {
 } */
 
 h2 {
-    color: #001253;
+    color: #132C33;
     font-family: 'Montserrat-Bold', sans-serif;
     font-size: 3rem;
     line-height: 1.5;
@@ -62,7 +62,7 @@ p {
     font-family: 'Ubuntu';
     font-size: 1.6rem;
     font-weight: lighter;   
-    color: #FAF7F0;
+    color: #132C33;
     /* padding-left: 10px; */
     position: relative;
 }
@@ -78,9 +78,9 @@ p {
 /* button Hamburger */
 button.navbar-toggler {
     margin-right: 10px;
-    color: #FAF7F0;
+    color: #132C33;
     /* color: #132C33; */
-    background: #001253;
+    /* background: #132C33; */
 }
 
 /* Un-ordered List <ul> within the navigation bar */
@@ -90,7 +90,7 @@ button.navbar-toggler {
 
 /* <li> and  the <a> within the <li> links */
 .nav-link {
-    color: #FAF7F0;
+    color: #132C33;
     /* color: #FAF7F0; */
     font-size: 1.2rem;
     font-family: 'Montserrat-Light';
@@ -110,19 +110,19 @@ button.navbar-toggler {
 }
 
 #title {
-    background-color: #FAF7F0;
-    color: #FAF7F0;
+    /* background-color: #FAF7F0; */
+    /* color: #FAF7F0; */
     position: relative;
 }
 
 /* Title h1 name Mei and Felipe */
-.h1-mei {
+/* .h1-mei {
     color:#212529;
 }
 
 .h1-felipe {
     color: #0d6efd;
-}
+} */
 
 /* LinkedIn title links */
 .title-link {
@@ -175,7 +175,7 @@ button.navbar-toggler {
 
 #testimonials {
     text-align: center;
-    background: #FAF7F0;
+    /* background: #FAF7F0; */
     color: #001253;
 }
 
@@ -189,7 +189,7 @@ button.navbar-toggler {
 .carousel-item {
     height: 400px;
     padding: 7% 15%;
-    margin-bottom: 175px;
+    margin-bottom: 190px;
   }
       /* Carousel Images */
   /* img {
@@ -238,7 +238,7 @@ button.navbar-toggler {
 /* Social Media Section Start */
 
 #social-media {
-    background:#FAF7F0;
+    /* background:#FAF7F0; */
     text-align: center;
     padding-bottom: 3%;
     padding-left: 9%;
@@ -269,7 +269,7 @@ button.navbar-toggler {
  /* Strategy -Pricing Start  */
 
 #strategy {
-    background: #FAF7F0;
+    /* background: #FAF7F0; */
     padding: 100px;
 }
 
