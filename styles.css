@@ -189,7 +189,7 @@ button.navbar-toggler {
 .carousel-item {
     height: 400px;
     padding: 7% 15%;
-    margin-bottom: 210px;
+    margin-bottom: 190px;
   }
       /* Carousel Images */
   /* img {
@@ -202,22 +202,22 @@ button.navbar-toggler {
 .carousel-one {
     /* color: #FAF7F0; */
     color: #132C33;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
 }
 .carousel-two {
     /* color: #FAF7F0; */
     color: #132C33;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
 }
 .carousel-three {
     /* color: #FAF7F0; */
     color: #132C33;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
 }
 
 .carousel-four {
     color: #132C33;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
 }
 
     /* Carousel Buttons I want to change the color of the arrow */
