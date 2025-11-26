@@ -232,7 +232,8 @@ button.navbar-toggler {
     text-align: center;
     padding-bottom: 3%;
     padding-left: 27%;
-    padding-right: 9%;
+    /* padding-right: 9%; */
+    padding-right: 25%;
 }
 
 .social-box {
